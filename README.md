@@ -73,15 +73,6 @@
   <sub>FastAPI · Stripe payments · OAuth2 · AWS EC2 · RDS PostgreSQL</sub>
 </td>
 <td align="center" width="25%">
-  <h3>🏗️</h3>
-  <strong>SiteSupervise</strong><br/>
-  <sub>Construction Management SaaS</sub><br/><br/>
-  <a href="https://api.sitesupervise.tech/">
-    <img src="https://img.shields.io/badge/LIVE-api.sitesupervise.tech-15803D?style=flat-square&logo=checkmarx&logoColor=white"/>
-  </a><br/><br/>
-  <sub>Django · Channels · LiveKit AR/VR · Celery · Docker · 99 DB tables</sub>
-</td>
-<td align="center" width="25%">
   <h3>🏋️</h3>
   <strong>Viigo Fitness</strong><br/>
   <sub>Gym Management Platform</sub><br/><br/>
